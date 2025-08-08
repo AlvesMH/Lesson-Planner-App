@@ -1,5 +1,7 @@
 # 🎓 Lesson Plan Generator
 
+## [LIVE-DEMO](https://lesson-planner-app.onrender.com/)
+
 An AI-powered teaching assistant that helps educators **design engaging, professional-grade lesson plans** in minutes.
 
 This web app uses modern AI with your own uploaded documents (PDF, DOCX) for **context-aware lesson planning**.  
@@ -12,6 +14,13 @@ It produces:
 Built with **FastAPI** + **React** for speed, ease of use, and a polished professional UI.
 
 ---
+![Desktop View](public/lp1.jpg)  
+*Desktop View*
+
+<img src="public/lp4.jpg" alt="Mobile View" style="width:50%;">   
+*Mobile Friendly*
+
+
 
 ## 💡 Tips for Best Results
 
@@ -110,6 +119,11 @@ cd ..
 uvicorn backend.main:app --reload
 Open: http://127.0.0.1:8000
 ```
+![Easy to use](public/lp2.jpg)  
+*Desktop Help*
+
+<img src="public/lp3.jpg" alt="Clear instructions" style="width:50%;">   
+*Mobile Friendly*
 
 ---
 
