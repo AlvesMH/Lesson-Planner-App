@@ -17,9 +17,13 @@ Built with **FastAPI** + **React** for speed, ease of use, and a polished profes
 ![Desktop View](public/lp1.jpg)  
 *Desktop View*
 
-<img src="public/lp4.jpg" alt="Mobile View" style="width:50%;">   
-*Mobile Friendly*
-
+<table style="border:2px solid red; border-collapse:collapse;">
+  <tr>
+    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="public/lp4.jpg" alt="Mobile Friendly" style="width:50%; border:2px solid red;"></td>
+    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="public/lp3.jpg" alt="Clear instructions" style="width:50%; border:2px solid red;"></td>
+  
+  </tr>
+</table>  
 
 
 ## 💡 Tips for Best Results
@@ -122,7 +126,7 @@ Open: http://127.0.0.1:8000
 ![Easy to use](public/lp2.jpg)  
 *Desktop Help*
 
-<img src="public/lp3.jpg" alt="Clear instructions" style="width:50%;">   
+<img src="public/lp3.jpg" alt="Clear instructions" style="width:20%;">   
 *Mobile Friendly*
 
 ---
