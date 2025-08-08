@@ -11,4 +11,4 @@ jobs:
     steps:
       - name: Call health endpoint
         run: |
-          curl -s -o /dev/null https://lesson-planner-app.onreander.com/health
+          curl -s -o /dev/null https://lesson-planner-app.onreander.com/healthz
