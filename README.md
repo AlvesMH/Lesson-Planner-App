@@ -1,6 +1,6 @@
 # 🎓 Lesson Plan Generator
 
-## [LIVE-DEMO](https://lesson-planner-app.onrender.com/)
+## [LIVE-DEMO: Build your lesson plans Now!](https://lesson-planner-app.onrender.com/)
 
 An AI-powered teaching assistant that helps educators **design engaging, professional-grade lesson plans** in minutes.
 
@@ -32,15 +32,15 @@ Built with **FastAPI** + **React** for speed, ease of use, and a polished profes
 
 ## 💡 Tips for Best Results
 
-### Upload relevant, clean documents (avoid scanned images without OCR).
+#### - Upload relevant, clean documents (avoid scanned images without OCR).
 
-### For more creativity, increase Temperature slightly (0.4–0.7).
+#### - For more creativity, increase Temperature slightly (0.4–0.7).
 
-### Use Advanced settings for token and probability control when refining outputs.
+#### - Use Advanced settings for token and probability control when refining outputs.
 
-### Keep lesson length realistic for content depth.
+#### - Keep lesson length realistic for content depth.
 
-### Save your DOCX outputs immediately after generation — Render's free tier has ephemeral storage.
+#### - Save your DOCX outputs immediately after generation — Render's free tier has ephemeral storage.
 
 
 ## 🚀 Benefits
