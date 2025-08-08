@@ -1,0 +1,10 @@
+langchain                      >=0.3.0
+langchain-core                 >=0.3.0
+langchain-community            >=0.3.0
+langchain-ollama               >=0.0.11   # embeddings & LLM wrapper
+langchain-chroma               >=0.0.16   # vector-store driver
+chromadb
+gradio                         >=4.26      # Blocks analytics flag ✔︎
+ollama
+pypdf
+Markdown>=3.5
