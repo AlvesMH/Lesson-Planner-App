@@ -19,11 +19,15 @@ Built with **FastAPI** + **React** for speed, ease of use, and a polished profes
 
 <table style="border:2px solid red; border-collapse:collapse;">
   <tr>
-    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="public/lp4.jpg" alt="Mobile Friendly" style="width:50%; border:2px solid red;"></td>
-    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="public/lp3.jpg" alt="Clear instructions" style="width:50%; border:2px solid red;"></td>
-  
+    <td style="border:2px solid red; display:flex; justify-content:center; align-items:center;">
+      <img src="public/lp4.jpg" alt="Mobile Friendly" style="width:50%; border:2px solid red;">
+    </td>
+    <td style="border:2px solid red; display:flex; justify-content:center; align-items:center;">
+      <img src="public/lp3.jpg" alt="Clear instructions" style="width:50%; border:2px solid red;">
+    </td>
   </tr>
-</table>  
+</table>
+  
 
 
 ## 💡 Tips for Best Results
